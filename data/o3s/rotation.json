@@ -23,316 +23,323 @@
     {
       "name": "Pole Shift",
       "alias": "",
-      "position": 4,
+      "position": 3,
       "time": 22,
       "display": false
     },
     {
       "name": "Queen’s Waltz Saber Dance",
       "alias": "",
-      "position": 5,
+      "position": 4,
       "time": 37,
       "display": true
     },
     {
       "name": "Haste",
       "alias": "",
-      "position": 6,
+      "position": 5,
       "time": 41,
       "display": true
     },
     {
       "name":"Spellblade",
       "alias":"",
-      "position": 7,
+      "position": 6,
       "time":45,
       "display": true
     },
     {
       "name": "Dimensional Wave",
       "alias": "",
-      "position": 8,
+      "position": 7,
       "time": 49,
       "display": true
     },
     {
       "name": "The Playing Field",
       "alias": "",
-      "position": 9,
+      "position": 8,
       "time": 59,
       "display": true
     },
     {
       "name": "Oink",
       "alias": "",
-      "position": 10,
+      "position": 9,
       "time": 65,
       "display": true
     },
     {
       "name": "The Game",
       "alias": "",
-      "position": 11,
+      "position": 10,
       "time": 72,
       "display": true
     },
     {
       "name": "Panel Swap",
       "alias": "",
-      "position": 12,
+      "position": 11,
       "time": 81,
       "display": true
     },
     {
       "name": "Queen’s Waltz Briar Thorn + Spellblade: Fire III",
       "alias": "",
-      "position": 13,
+      "position": 12,
       "time": 89,
       "display": true
     },
     {
       "name": "Haste",
       "alias": "",
-      "position": 14,
+      "position": 13,
       "time": 99,
       "display": true
     },
     {
       "name": "Spellblade: Thunder III",
       "alias": "",
-      "position": 15,
+      "position": 14,
       "time": 103,
       "display": true
     },
     {
       "name": "Critical Hit",
       "alias": "",
-      "position": 16,
+      "position": 15,
       "time": 109,
       "display": true
     },
     {
       "name": "Dimensional Wave",
       "alias": "",
-      "position": 17,
+      "position": 16,
       "time": 113,
       "display": true
     },
     {
       "name": "Place Token (White Flame)",
       "alias": "",
-      "position": 18,
+      "position": 17,
       "time": 121,
       "display": true
     },
     {
       "name": "Haste",
       "alias": "",
-      "position": 19,
+      "position": 18,
       "time": 1,
       "display": false
     },
     {
       "name": "Spellblade: Blizzard III",
       "alias": "",
-      "position": 20,
+      "position": 19,
       "time": 1,
       "display": false
     },
     {
       "name": "Mindjack",
       "alias": "",
-      "position": 21,
+      "position": 20,
       "time": 144,
       "display": true
     },
     {
       "name": "Queen’s Waltz Briar Thorn + Spellblade: Fire III + Mindjack resolves",
       "alias": "",
-      "position": 22,
+      "position": 21,
       "time": 155,
       "display": true
     },
     {
       "name": "Dimensional Wave",
       "alias": "",
-      "position": 23,
+      "position": 22,
       "time": 165,
       "display": true
     },
     {
       "name":"Panel Swap",
       "alias": "",
-      "position": 24,
+      "position": 23,
       "time": 174,
       "display": true
     },
     {
       "name": "Place Token (Great Dragon)",
       "alias": "",
-      "position": 25,
+      "position": 24,
       "time": 179,
       "display": true
     },
     {
       "name": "Queen’s Waltz Earthly Dance",
       "alias": "",
-      "position": 26,
+      "position": 25,
       "time": 191,
       "display": true
     },
     {
       "name": "Ribbit",
       "alias": "",
-      "position": 27,
+      "position": 26,
       "time": 197,
       "display": true
     },
     {
       "name": "Dimensional Wave",
       "alias": "",
-      "position": 28,
+      "position": 27,
       "time": 202,
       "display": true
     },
     {
       "name": "Critical Hit",
       "alias": "",
-      "position": 29,
+      "position": 28,
       "time": 216,
       "display": true
     },
     {
       "name": "Place Dark Token",
       "alias": "",
-      "position": 30,
+      "position": 29,
       "time": 228,
       "display": true
     },
     {
       "name": "Queen’s Waltz Earthly Dance",
       "alias": "",
-      "position": 31,
+      "position": 30,
       "time": 240,
       "display": true
     },
     {
       "name": "Haste",
       "alias": "",
-      "position": 32,
+      "position": 31,
       "time": 244,
       "display": true
     },
     {
       "name": "Spellblade: Fire III",
       "alias": "",
-      "position": 33,
+      "position": 32,
       "time": 248,
       "display": true
     },
     {
       "name": "Dimensional Wave",
       "alias": "",
-      "position": 34,
+      "position": 33,
       "time": 253,
       "display": true
     },
     {
       "name": "Panel Swap",
       "alias": "",
-      "position": 35,
+      "position": 34,
       "time": 260,
       "display": true
     },
     {
       "name": "Queen’s Waltz Folio",
       "alias": "",
-      "position": 36,
+      "position": 35,
       "time": 267,
       "display": true
     },
     {
       "name": "Oink",
       "alias": "",
-      "position": 37,
+      "position": 36,
       "time": 274,
       "display": true
     },
     {
       "name": "Place Token (Apanda)",
       "alias": "",
-      "position": 38,
+      "position": 37,
       "time": 279,
       "display": true
     },
     {
       "name": "Queen’s Waltz Folio + Magic Hammer",
       "alias": "",
-      "position": 39,
+      "position": 38,
       "time": 292,
       "display": true
     },
     {
       "name": "Squelch",
       "alias": "",
-      "position": 40,
+      "position": 39,
       "time": 299,
       "display": true
     },
     {
       "name": "Dimensional Wave",
       "alias": "",
-      "position": 41,
+      "position": 40,
       "time": 304,
       "display": true
     },
     {
       "name": "Critical Hit",
       "alias": "",
-      "position": 42,
+      "position": 41,
       "time": 311,
       "display": true
     },
     {
       "name": "Dimensional Wave",
       "alias": "",
-      "position": 43,
+      "position": 42,
       "time": 322,
       "display": true
     },
     {
       "name": "Spellblade Holy",
       "alias": "",
-      "position": 44,
+      "position": 43,
       "time": 328,
       "display": true
     },
     {
       "name": "Queen’s Waltz Folio",
       "alias": "",
-      "position": 45,
+      "position": 44,
       "time": 336,
       "display": true
     },
     {
       "name": "Dimensional Wave",
       "alias": "",
-      "position": 46,
+      "position": 45,
       "time": 345,
       "display": true
     },
     {
       "name": "Panel Swap",
       "alias": "",
-      "position": 47,
+      "position": 46,
       "time": 355,
       "display": true
     },
     {
       "name": "The Playing Field",
       "alias": "",
-      "position": 48,
+      "position": 47,
       "time": 360,
+      "display": true
+    },
+    {
+      "name": "Ribbit/Squelch/Oink",
+      "alias": "",
+      "position": 48,
+      "time": 370,
       "display": true
     },
     {
@@ -340,7 +347,7 @@
       "alias": "",
       "position": 49,
       "time": 370,
-      "display": true
+      "display": false
     },
     {
       "name": "Ribbit/Squelch/Oink",
@@ -350,254 +357,247 @@
       "display": false
     },
     {
-      "name": "Ribbit/Squelch/Oink",
-      "alias": "",
-      "position": 51,
-      "time": 370,
-      "display": false
-    },
-    {
       "name": "The Game",
       "alias":"",
-      "position": 52,
+      "position": 51,
       "time": 390,
       "display": true
     },
     {
       "name": "Queen’s Waltz",
       "alias": "",
-      "position": 53,
+      "position": 52,
       "time": 402,
       "display": true
     },
     {
       "name": "Spellblade Holy",
       "alias": "",
-      "position": 54,
+      "position": 53,
       "time": 411,
       "display": true
     },
     {
       "name": "Pole Shift",
       "alias": "",
-      "position": 55,
+      "position": 54,
       "time": 411,
       "display": false
     },
     {
       "name": "Critical Hit",
       "alias": "",
-      "position": 56,
+      "position": 55,
       "time": 427,
       "display": true
     },
     {
       "name": "Mindjack",
       "alias": "",
-      "position": 57,
+      "position": 56,
       "time": 438,
       "display": true
     },
     {
       "name": "Place Dark Token",
       "alias": "",
-      "position": 58,
+      "position": 57,
       "time": 442,
       "display": true
     },
     {
       "name": "Queen’s Waltz",
       "alias": "",
-      "position": 59,
+      "position": 58,
       "time": 463,
       "display": true
     },
     {
       "name": "Dimensional Wave",
       "alias": "",
-      "position": 60,
+      "position": 59,
       "time": 476,
       "display": true
     },
     {
       "name": "Haste",
       "alias": "",
-      "position": 61,
+      "position": 60,
       "time": 485,
       "display": true
     },
     {
       "name": "2x Spellblade",
       "alias": "",
-      "position": 62,
+      "position": 61,
       "time": 489,
       "display": true
     },
     {
       "name": "Dimensional Wave",
       "alias": "",
-      "position": 63,
+      "position": 62,
       "time": 498,
       "display": true
     },
     {
       "name": "Place Token (Iron Giant + 6x Ninja)",
       "alias": "",
-      "position": 64,
+      "position": 63,
       "time": 510,
       "display": true
     },
     {
       "name": "Haste III",
       "alias": "",
-      "position": 65,
+      "position": 64,
       "time": 520,
       "display": true
     },
     {
       "name": "Dimensional Wave 1/4",
       "alias": "",
-      "position": 66,
+      "position": 65,
       "time": 524,
       "display": true
     },
     {
       "name": "Dimensional Wave 2/4",
       "alias": "",
-      "position": 67,
+      "position": 66,
       "time": 529,
       "display": true
     },
     {
       "name": "Dimensional Wave 3/4",
       "alias": "",
-      "position": 68,
+      "position": 67,
       "time": 535,
       "display": true
     },
     {
       "name": "Dimensional Wave 4/4",
       "alias": "",
-      "position": 69,
+      "position": 68,
       "time": 540,
       "display": true
     },
     {
       "name": "Queen’s Waltz",
       "alias": "",
-      "position": 70,
+      "position": 69,
       "time": 549,
       "display": true
     },
     {
       "name": "Spellblade",
       "alias": "",
-      "position": 71,
+      "position": 70,
       "time": 550,
       "display": true
     },
     {
       "name": "Dimensional Wave",
       "alias": "",
-      "position": 72,
+      "position": 71,
       "time": 559,
       "display": true
     },
     {
       "name": "Critical Hit",
       "alias": "",
-      "position": 73,
+      "position": 72,
       "time": 569,
       "display": true
     },
     {
       "name": "Queen’s Waltz",
       "alias": "",
-      "position": 74,
+      "position": 73,
       "time": 580,
       "display": true
     },
     {
       "name": "Spellblade Holy",
       "alias": "",
-      "position": 75,
+      "position": 74,
       "time": 589,
       "display": true
     },
     {
       "name": "Pole Shift",
       "alias": "",
-      "position": 76,
+      "position": 75,
       "time": 589,
       "display": false
     },
     {
       "name": "Critical Hit",
       "alias": "",
-      "position": 77,
+      "position": 76,
       "time": 605,
       "display": true
     },
     {
       "name": "Mindjack",
       "alias": "",
-      "position": 78,
+      "position": 77,
       "time": 615,
       "display": true
     },
     {
       "name": "Place Dark Token",
       "alias": "",
-      "position": 79,
+      "position": 78,
       "time": 619,
       "display": true
     },
     {
       "name": "Queen’s Waltz",
       "alias": "",
-      "position": 80,
+      "position": 79,
       "time": 641,
       "display": true
     },
     {
       "name": "Dimensional Wave",
       "alias": "",
-      "position": 81,
+      "position": 80,
       "time": 653,
       "display": true
     },
     {
       "name": "Haste",
       "alias": "",
-      "position": 82,
+      "position": 81,
       "time": 662,
       "display": true
     },
     {
       "name": "2x Spellblade",
       "alias": "",
-      "position": 83,
+      "position": 82,
       "time": 666,
       "display": true
     },
     {
       "name": "Dimensional Wave",
       "alias": "",
-      "position": 84,
+      "position": 83,
       "time": 675,
       "display": true
     },
     {
       "name": "The Playing Field",
       "alias": "",
-      "position": 85,
+      "position": 84,
       "time": 686,
       "display": true
     },
     {
       "name": "The Game",
       "alias": "",
-      "position": 86,
+      "position": 85,
       "time": 693,
       "display": true
     }
