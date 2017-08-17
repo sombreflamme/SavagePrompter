@@ -1,0 +1,605 @@
+{
+  "name": "Deltascape V1.0 (Savage)",
+  "boss": "Alte Roite",
+  "raid": "Omega",
+  "floor": "1",
+  "mode": "Savage",
+  "enrage_time": "09:39",
+  "rotations" : [
+    {
+      "name": "Wyrm Tail",
+      "alias": "",
+      "position": 1,
+      "time": 3,
+      "display": true
+    },
+    {
+      "name": "Wyrm Tail",
+      "alias": "",
+      "position": 2,
+      "time": 9,
+      "display": true
+    },
+    {
+      "name": "Twin Bolt",
+      "alias": "",
+      "position": 3,
+      "time": 16,
+      "display": true
+    },
+    {
+      "name": "The Classical Elements",
+      "alias": "",
+      "position": 4,
+      "time": 31,
+      "display": true
+    },
+    {
+      "name": "suffer Thin Ice",
+      "alias": "",
+      "position": 5,
+      "time": 47,
+      "display": true
+    },
+    {
+      "name": "Downburst",
+      "alias": "",
+      "position": 6,
+      "time": 48,
+      "display": true
+    },
+    {
+      "name": "Balls of Fire (outer)",
+      "alias": "",
+      "position": 7,
+      "time": 53,
+      "display": true
+    },
+    {
+      "name": "recover from Thin Ice",
+      "alias": "",
+      "position": 8,
+      "time": 54,
+      "display": true
+    },
+    {
+      "name": "Levinbolt",
+      "alias": "",
+      "position": 9,
+      "time": 56,
+      "display": true
+    },
+    {
+      "name": "Roar",
+      "alias": "",
+      "position": 10,
+      "time": 62,
+      "display": true
+    },
+    {
+      "name": "Wyrm Tail",
+      "alias": "",
+      "position": 11,
+      "time": 68,
+      "display": true
+    },
+    {
+      "name": "Wyrm Tail",
+      "alias": "",
+      "position": 12,
+      "time": 74,
+      "display": true
+    },
+    {
+      "name": "Twin Bolt",
+      "alias": "",
+      "position": 13,
+      "time": 85,
+      "display": true
+    },
+    {
+      "name": "Clamp",
+      "alias": "",
+      "position": 14,
+      "time": 91,
+      "display": true
+    },
+    {
+      "name": "Wyrm Tail",
+      "alias": "",
+      "position": 15,
+      "time": 104,
+      "display": true
+    },
+    {
+      "name": "Balls of Fire (outer)",
+      "alias": "",
+      "position": 16,
+      "time": 112,
+      "display": true
+    },
+    {
+      "name": "Levinbolt",
+      "alias": "",
+      "position": 17,
+      "time": 116,
+      "display": true
+    },
+    {
+      "name": "Balls of Fire (inner)",
+      "alias": "",
+      "position": 18,
+      "time": 118,
+      "display": true
+    },
+    {
+      "name": "Blaze",
+      "alias": "",
+      "position": 19,
+      "time": 123,
+      "display": true
+    },
+    {
+      "name": "Wyrm Tail",
+      "alias": "",
+      "position": 20,
+      "time": 130,
+      "display": true
+    },
+    {
+      "name": "Wyrm Tail",
+      "alias": "",
+      "position": 21,
+      "time": 136,
+      "display": true
+    },
+    {
+      "name": "Twin Bolt",
+      "alias": "",
+      "position": 22,
+      "time": 143,
+      "display": true
+    },
+    {
+      "name": "Roar",
+      "alias": "",
+      "position": 23,
+      "time": 153,
+      "display": true
+    },
+    {
+      "name": "Roar",
+      "alias": "",
+      "position": 24,
+      "time": 159,
+      "display": true
+    },
+    {
+      "name": "Wyrm Tail",
+      "alias": "",
+      "position": 25,
+      "time": 165,
+      "display": true
+    },
+    {
+      "name": "Charybdis",
+      "alias": "",
+      "position": 26,
+      "time": 172,
+      "display": true
+    },
+    {
+      "name": "Roar",
+      "alias": "",
+      "position": 27,
+      "time": 180,
+      "display": true
+    },
+    {
+      "name": "The Classical Elements",
+      "alias": "",
+      "position": 28,
+      "time": 190,
+      "display": true
+    },
+    {
+      "name": "suffer Thin Ice",
+      "alias": "",
+      "position": 29,
+      "time": 208,
+      "display": true
+    },
+    {
+      "name": "Downburst",
+      "alias": "",
+      "position": 30,
+      "time": 208,
+      "display": true
+    },
+    {
+      "name": "Balls of Fire (outer, 1 sa",
+      "alias": "",
+      "position": 31,
+      "time": 212,
+      "display": true
+    },
+    {
+      "name": "recover from Thin Ice",
+      "alias": "",
+      "position": 32,
+      "time": 215,
+      "display": true
+    },
+    {
+      "name": "Levinbolt",
+      "alias": "",
+      "position": 33,
+      "time": 217,
+      "display": true
+    },
+    {
+      "name": "suffer Thin Ice",
+      "alias": "",
+      "position": 34,
+      "time": 233,
+      "display": true
+    },
+    {
+      "name": "Breath Wing",
+      "alias": "",
+      "position": 35,
+      "time": 234,
+      "display": true
+    },
+    {
+      "name": "Balls of Fire (1 side)",
+      "alias": "",
+      "position": 36,
+      "time": 238,
+      "display": true
+    },
+    {
+      "name": "recover from Thin Ice",
+      "alias": "",
+      "position": 37,
+      "time": 240,
+      "display": true
+    },
+    {
+      "name": "Clamp",
+      "alias": "",
+      "position": 38,
+      "time": 242,
+      "display": true
+    },
+    {
+      "name": "Blaze",
+      "alias": "",
+      "position": 39,
+      "time": 250,
+      "display": true
+    },
+    {
+      "name": "Roar",
+      "alias": "",
+      "position": 40,
+      "time": 257,
+      "display": true
+    },
+    {
+      "name": "Wyrm Tail",
+      "alias": "",
+      "position": 41,
+      "time": 263,
+      "display": true
+    },
+    {
+      "name": "Wyrm Tail",
+      "alias": "",
+      "position": 42,
+      "time": 269,
+      "display": true
+    },
+    {
+      "name": "Charybdis",
+      "alias": "",
+      "position": 43,
+      "time": 280,
+      "display": true
+    },
+    {
+      "name": "Twin Bolt",
+      "alias": "",
+      "position": 44,
+      "time": 288,
+      "display": true
+    },
+    {
+      "name": "Levinbolt",
+      "alias": "",
+      "position": 45,
+      "time": 312,
+      "display": true
+    },
+    {
+      "name": "Balls of Fire (inner)",
+      "alias": "",
+      "position": 46,
+      "time": 314,
+      "display": true
+    },
+    {
+      "name": "Clamp",
+      "alias": "",
+      "position": 47,
+      "time": 321,
+      "display": true
+    },
+    {
+      "name": "Balls of Fire (outer)",
+      "alias": "",
+      "position": 48,
+      "time": 322,
+      "display": true
+    },
+    {
+      "name": "Roar",
+      "alias": "",
+      "position": 49,
+      "time": 328,
+      "display": true
+    },
+    {
+      "name": "Roar",
+      "alias": "",
+      "position": 50,
+      "time": 334,
+      "display": true
+    },
+    {
+      "name": "The Classical Elements",
+      "alias": "",
+      "position": 51,
+      "time": 344,
+      "display": true
+    },
+    {
+      "name": "suffer Thin Ice",
+      "alias": "",
+      "position": 52,
+      "time": 364,
+      "display": true
+    },
+    {
+      "name": "Downburst",
+      "alias": "",
+      "position": 53,
+      "time": 365,
+      "display": true
+    },
+    {
+      "name": "Balls of Fire (outer)",
+      "alias": "",
+      "position": 54,
+      "time": 366,
+      "display": true
+    },
+    {
+      "name": "Balls of Fire (outer)",
+      "alias": "",
+      "position": 55,
+      "time": 369,
+      "display": true
+    },
+    {
+      "name": "recover from Thin Ice",
+      "alias": "",
+      "position": 56,
+      "time": 371,
+      "display": true
+    },
+    {
+      "name": "Blaze",
+      "alias": "",
+      "position": 57,
+      "time": 374,
+      "display": true
+    },
+    {
+      "name": "Roar",
+      "alias": "",
+      "position": 58,
+      "time": 381,
+      "display": true
+    },
+    {
+      "name": "Wyrm Tail",
+      "alias": "",
+      "position": 59,
+      "time": 387,
+      "display": true
+    },
+    {
+      "name": "Wyrm Tail",
+      "alias": "",
+      "position": 60,
+      "time": 393,
+      "display": true
+    },
+    {
+      "name": "Twin Bolt",
+      "alias": "",
+      "position": 61,
+      "time": 404,
+      "display": true
+    },
+    {
+      "name": "Clamp",
+      "alias": "",
+      "position": 62,
+      "time": 410,
+      "display": true
+    },
+    {
+      "name": "Wyrm Tail",
+      "alias": "",
+      "position": 63,
+      "time": 423,
+      "display": true
+    },
+    {
+      "name": "Balls of Fire (outer)",
+      "alias": "",
+      "position": 64,
+      "time": 431,
+      "display": true
+    },
+    {
+      "name": "Levinbolt",
+      "alias": "",
+      "position": 65,
+      "time": 434,
+      "display": true
+    },
+    {
+      "name": "Balls of Fire (inner)",
+      "alias": "",
+      "position": 66,
+      "time": 436,
+      "display": true
+    },
+    {
+      "name": "Blaze",
+      "alias": "",
+      "position": 67,
+      "time": 442,
+      "display": true
+    },
+    {
+      "name": "The Classical Elements",
+      "alias": "",
+      "position": 68,
+      "time": 453,
+      "display": true
+    },
+    {
+      "name": "suffer Thin Ice",
+      "alias": "",
+      "position": 69,
+      "time": 469,
+      "display": true
+    },
+    {
+      "name": "Downburst",
+      "alias": "",
+      "position": 70,
+      "time": 470,
+      "display": true
+    },
+    {
+      "name": "Balls of Fire (outer)",
+      "alias": "",
+      "position": 71,
+      "time": 475,
+      "display": true
+    },
+    {
+      "name": "recover from Thin Ice",
+      "alias": "",
+      "position": 72,
+      "time": 476,
+      "display": true
+    },
+    {
+      "name": "Levinbolt",
+      "alias": "",
+      "position": 73,
+      "time": 478,
+      "display": true
+    },
+    {
+      "name": "Roar",
+      "alias": "",
+      "position": 74,
+      "time": 484,
+      "display": true
+    },
+    {
+      "name": "Wyrm Tail",
+      "alias": "",
+      "position": 75,
+      "time": 490,
+      "display": true
+    },
+    {
+      "name": "Wyrm Tail",
+      "alias": "",
+      "position": 76,
+      "time": 496,
+      "display": true
+    },
+    {
+      "name": "Charybdis",
+      "alias": "",
+      "position": 77,
+      "time": 507,
+      "display": true
+    },
+    {
+      "name": "Twin Bolt",
+      "alias": "",
+      "position": 78,
+      "time": 515,
+      "display": true
+    },
+    {
+      "name": "Levinbolt",
+      "alias": "",
+      "position": 79,
+      "time": 538,
+      "display": true
+    },
+    {
+      "name": "Balls of Fire (inner)",
+      "alias": "",
+      "position": 80,
+      "time": 540,
+      "display": true
+    },
+    {
+      "name": "Clamp",
+      "alias": "",
+      "position": 81,
+      "time": 548,
+      "display": true
+    },
+    {
+      "name": "Balls of Fire (outer)",
+      "alias": "",
+      "position": 82,
+      "time": 548,
+      "display": true
+    },
+    {
+      "name": "Roar",
+      "alias": "",
+      "position": 83,
+      "time": 554,
+      "display": true
+    },
+    {
+      "name": "Roar",
+      "alias": "",
+      "position": 84,
+      "time": 560,
+      "display": true
+    },
+    {
+      "name": "GREAT BALLS OF FIRE!!! JERRY LEE LEWIS FTW!!!",
+      "alias": "",
+      "position": 85,
+      "time": 579,
+      "display": true
+    }
+  ]
+}
