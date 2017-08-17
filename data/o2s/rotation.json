@@ -1,0 +1,526 @@
+{
+  "name": "Deltascape V2.0 (Savage)",
+  "boss": "Catastrophe",
+  "raid": "Omega",
+  "floor": "2",
+  "mode": "Savage",
+  "enrage_time": "10:30",
+  "rotations": [{
+    "name": "Earthquake",
+    "alias": "",
+    "position": 1,
+    "time": 13,
+    "display": true
+  },
+  {
+    "name": "100 Gs",
+    "alias": "",
+    "position": 2,
+    "time": 26,
+    "display": true
+  },
+  {
+    "name": "Antilight",
+    "alias": "",
+    "position": 3,
+    "time": 31,
+    "display": true
+  },
+  {
+    "name": "Gravitational Wave",
+    "alias": "",
+    "position": 4,
+    "time": 48,
+    "display": true
+  },
+  {
+    "name": "Gravitational Manipulation",
+    "alias": "",
+    "position": 5,
+    "time": 56,
+    "display": true
+  },
+  {
+    "name": "Gravitational Distorsion",
+    "alias": "",
+    "position": 6,
+    "time": 65,
+    "display": true
+  },
+  {
+    "name": "Paranormal Wave",
+    "alias": "",
+    "position": 7,
+    "time": 75,
+    "display": true
+  },
+  {
+    "name": "Paranor;al Wave",
+    "alias": "",
+    "position": 8,
+    "time": 80,
+    "display": true
+  },
+  {
+    "name": "Evilsphere",
+    "alias": "",
+    "position": 9,
+    "time": 85,
+    "display": true
+  },
+  {
+    "name": "Paranormal Wave",
+    "alias": "",
+    "position": 10,
+    "time": 97,
+    "display": true
+  },
+  {
+    "name": "Maniacal Probe (tank/healer)",
+    "alias": "",
+    "position": 11,
+    "time": 102,
+    "display": true
+  },
+  {
+    "name": "Death's Gaze",
+    "alias": "",
+    "position": 12,
+    "time": 113,
+    "display": true
+  },
+  {
+    "name": "Epicenter",
+    "alias": "",
+    "position": 13,
+    "time": 120,
+    "display": true
+  },
+  {
+    "name": "Gravitational Wave",
+    "alias": "",
+    "position": 14,
+    "time": 127,
+    "display": true
+  },
+  {
+    "name": "100 Gs",
+    "alias": "",
+    "position": 15,
+    "time": 138,
+    "display": true
+  },
+  {
+    "name": "Gravitational Wave",
+    "alias": "",
+    "position": 16,
+    "time": 143,
+    "display": true
+  },
+  {
+    "name": "Paranormal Wave",
+    "alias": "",
+    "position": 17,
+    "time": 151,
+    "display": true
+  },
+  {
+    "name": "Gravitational Manipulation",
+    "alias": "",
+    "position": 18,
+    "time": 156,
+    "display": true
+  },
+  {
+    "name": "Paranormal Wave",
+    "alias": "",
+    "position": 19,
+    "time": 177,
+    "display": true
+  },
+  {
+    "name": "Evilsphere",
+    "alias": "",
+    "position": 20,
+    "time": 181,
+    "display": true
+  },
+  {
+    "name": "Paranormal Wave",
+    "alias": "",
+    "position": 21,
+    "time": 194,
+    "display": true
+  },
+  {
+    "name": "-100 Gs",
+    "alias": "",
+    "position": 22,
+    "time": 201,
+    "display": true
+  }, {
+    "name": "100 Gs",
+    "alias": "",
+    "position": 23,
+    "time": 230,
+    "display": true
+  },
+  {
+    "name": "Antilight",
+    "alias": "",
+    "position": 24,
+    "time": 234,
+    "display": true
+  },
+  {
+    "name": "Unstable Gravity",
+    "alias": "",
+    "position": 25,
+    "time": 241,
+    "display": true
+  },
+  {
+    "name": "Gravitational Wave",
+    "alias": "",
+    "position": 26,
+    "time": 242,
+    "display": true
+  },
+  {
+    "name": "Long Drop",
+    "alias": "",
+    "position": 27,
+    "time": 257,
+    "display": true
+  },
+  {
+    "name": "100 Gs",
+    "alias": "",
+    "position": 28,
+    "time": 268,
+    "display": true
+  },
+  {
+    "name": "Antilight",
+    "alias": "",
+    "position": 29,
+    "time": 272,
+    "display": true
+  },
+  {
+    "name": "Earthquake",
+    "alias": "",
+    "position": 30,
+    "time": 287,
+    "display": true
+  },
+  {
+    "name": "100 Gs",
+    "alias": "",
+    "position": 31,
+    "time": 302,
+    "display": true
+  },
+  {
+    "name": "Maniacal Probe (DPS)",
+    "alias": "",
+    "position": 32,
+    "time": 312,
+    "display": true
+  },
+  {
+    "name": "Death's Gaze",
+    "alias": "",
+    "position": 33,
+    "time": 323,
+    "display": true
+  },
+  {
+    "name": "Epicenter",
+    "alias": "",
+    "position": 34,
+    "time": 330,
+    "display": true
+  },
+  {
+    "name": "Gravitational Manipulation",
+    "alias": "",
+    "position": 35,
+    "time": 337,
+    "display": true
+  },
+  {
+    "name": "Antilight",
+    "alias": "",
+    "position": 36,
+    "time": 350,
+    "display": true
+  },
+  {
+    "name": "Unstable Gravity",
+    "alias": "",
+    "position": 37,
+    "time": 356,
+    "display": true
+  },
+  {
+    "name": "100 Gs",
+    "alias": "",
+    "position": 38,
+    "time": 361,
+    "display": true
+  },
+  {
+    "name": "Long Drop",
+    "alias": "",
+    "position": 39,
+    "time": 372,
+    "display": true
+  },
+  {
+    "name": "Paranormal Wave",
+    "alias": "",
+    "position": 40,
+    "time": 382,
+    "display": true
+  },
+  {
+    "name": "Paranormal Wave",
+    "alias": "",
+    "position": 41,
+    "time": 388,
+    "display": true
+  },
+  {
+    "name": "Evilsphere",
+    "alias": "",
+    "position": 42,
+    "time": 392,
+    "display": true
+  },
+  {
+    "name": "Paranormal Wave",
+    "alias": "",
+    "position": 43,
+    "time": 405,
+    "display": true
+  },
+  {
+    "name": "Antilight",
+    "alias": "",
+    "position": 44,
+    "time": 411,
+    "display": true
+  },
+  {
+    "name": "100 Gs",
+    "alias": "",
+    "position": 45,
+    "time": 422,
+    "display": true
+  },
+  {
+    "name": "Maniacal Probe (tank/healer)",
+    "alias": "",
+    "position": 46,
+    "time": 427,
+    "display": true
+  },
+  {
+    "name": "Death's Gaze",
+    "alias": "",
+    "position": 47,
+    "time": 439,
+    "display": true
+  },
+  {
+    "name": "Epicenter",
+    "alias": "",
+    "position": 48,
+    "time": 446,
+    "display": true
+  },
+  {
+    "name": "Gravitational Wave",
+    "alias": "",
+    "position": 49,
+    "time": 453,
+    "display": true
+  },
+  {
+    "name": "Antilight",
+    "alias": "",
+    "position": 50,
+    "time": 465,
+    "display": true
+  },
+  {
+    "name": "Main Quake",
+    "alias": "",
+    "position": 51,
+    "time": 467,
+    "display": true
+  },
+  {
+    "name": "Unstable Gravity (DPS)",
+    "alias": "",
+    "position": 52,
+    "time": 472,
+    "display": true
+  },
+  {
+    "name": "100 Gs",
+    "alias": "",
+    "position": 53,
+    "time": 477,
+    "display": true
+  },
+  {
+    "name": "Long Drop",
+    "alias": "",
+    "position": 54,
+    "time": 488,
+    "display": true
+  },
+  {
+    "name": "Gravitational Distorsion",
+    "alias": "",
+    "position": 55,
+    "time": 489,
+    "display": true
+  },
+  {
+    "name": "Death's Gaze",
+    "alias": "",
+    "position": 56,
+    "time": 490,
+    "display": true
+  },
+  {
+    "name": "Gravitational Wave",
+    "alias": "",
+    "position": 57,
+    "time": 500,
+    "display": true
+  },
+  {
+    "name": "Paranormal Wave",
+    "alias": "",
+    "position": 58,
+    "time": 506,
+    "display": true
+  },
+  {
+    "name": "Antilight",
+    "alias": "",
+    "position": 59,
+    "time": 510,
+    "display": true
+  },
+  {
+    "name": "100 Gs",
+    "alias": "",
+    "position": 60,
+    "time": 521,
+    "display": true
+  },
+  {
+    "name": "Paranormal Wave",
+    "alias": "",
+    "position": 61,
+    "time": 526,
+    "display": true
+  },
+  {
+    "name": "Evilsphere",
+    "alias": "",
+    "position": 62,
+    "time": 532,
+    "display": true
+  },
+  {
+    "name": "Paranormal Wave",
+    "alias": "",
+    "position": 63,
+    "time": 545,
+    "display": true
+  },
+  {
+    "name": "Gravitational Manipulation",
+    "alias": "",
+    "position": 64,
+    "time": 549,
+    "display": true
+  },
+  {
+    "name": "Gravitational Distorsion",
+    "alias": "",
+    "position": 65,
+    "time": 557,
+    "display": true
+  },
+  {
+    "name": "Antilight",
+    "alias": "",
+    "position": 66,
+    "time": 565,
+    "display": true
+  },
+  {
+    "name": "100 Gs",
+    "alias": "",
+    "position": 67,
+    "time": 575,
+    "display": true
+  },
+  {
+    "name": "Earthquake",
+    "alias": "",
+    "position": 68,
+    "time": 580,
+    "display": true
+  },
+  {
+    "name": "Gravitational Wave",
+    "alias": "",
+    "position": 69,
+    "time": 590,
+    "display": true
+  },
+  {
+    "name": "Antilight",
+    "alias": "",
+    "position": 70,
+    "time": 595,
+    "display": true
+  },
+  {
+    "name": "100 Gs",
+    "alias": "",
+    "position": 71,
+    "time": 605,
+    "display": true
+  },
+  {
+    "name": "Earthquake",
+    "alias": "",
+    "position": 72,
+    "time": 610,
+    "display": true
+  },
+  {
+    "name": "Gravitational Wave (enrage)",
+    "alias": "",
+    "position": 73,
+    "time": 617,
+    "display": true
+  },
+  {
+    "name": "enrage cast complete. You die.",
+    "alias": "",
+    "position": 74,
+    "time": 630,
+    "display": true
+  }
+]
+}
